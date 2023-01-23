@@ -1,23 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
+import FloorPlan from './FloorPlan'
 
 function App() {
+  const house = [
+    {kitchen: 'Kitchen'}, 
+    {livingRoom: 'LivingRoom'}, 
+    {bedroomOne: 'Bedroom One'}, 
+    {fullBath: 'Full Bath'},
+    {halfBath: 'Half Bath'},
+    {bedroomTwo: 'Bedroom Two'},
+    {bedroomThree: 'Bedroom Three'},
+]
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <FloorPlan house={house}/>
     </div>
   );
 }
