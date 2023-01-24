@@ -1,7 +1,7 @@
 function LivingRoom(props) {
   return (
     <>
-      <h3>{props.house.livingRoom}</h3>
+      <h3>Living Room</h3>
     </>
   )
 }
