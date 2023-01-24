@@ -1,6 +1,6 @@
 function Oven(props) {
   return (
-    <div>
+    <div className='Oven'>
       <p>Oven</p>
     </div>
   )
