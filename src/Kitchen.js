@@ -3,11 +3,11 @@ import Sink from "./Sink"
 
 function Kitchen(props) {
   return (
-    <>
+    <div>
       <h3>Kitchen</h3>
       <Oven/>
       <Sink/>
-    </>
+    </div>
   )
 }
 

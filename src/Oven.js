@@ -1,8 +1,8 @@
 function Oven(props) {
   return (
-    <>
-      <h3>Oven</h3>
-    </>
+    <div>
+      <p>Oven</p>
+    </div>
   )
 }
 

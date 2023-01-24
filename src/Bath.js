@@ -2,7 +2,7 @@ function Bath(props) {
   
   return (
     <>
-      {props.size}bath
+      <h3>{props.size}Bath</h3>
     </>
   )
 }

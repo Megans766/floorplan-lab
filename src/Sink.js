@@ -1,8 +1,8 @@
 function Sink(props) {
   return (
-    <>
-      <h3>Sink</h3>
-    </>
+    <div>
+      <p>Sink</p>
+    </div>
   )
 }
 
