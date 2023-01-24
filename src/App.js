@@ -3,7 +3,7 @@ import FloorPlan from './FloorPlan'
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <FloorPlan/>
     </div>
   );

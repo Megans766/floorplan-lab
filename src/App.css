@@ -3,3 +3,51 @@ div {
   margin: 5px;
   padding: 5px;
 }
+
+.floorPlan {
+  
+}
+
+.livingRoom {
+  background-color: coral;
+}
+
+.kitchen {
+  background-color: cornflowerblue;
+}
+
+.oven {
+  background-color: darkmagenta;
+}
+
+.sink {
+  background-color: antiquewhite;
+}
+
+#bath-Full {
+  background-color: burlywood;
+}
+
+#bath-Half {
+  background-color: burlywood;
+}
+
+#bed-One {
+  background-color: olivedrab;
+}
+
+#bed-Two {
+  background-color: olivedrab;
+}
+
+#bed-Three {
+  background-color: olivedrab;
+}
+
+
+
+
+
+
+
+
