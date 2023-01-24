@@ -1,7 +1,7 @@
 function Sink(props) {
   return (
     <>
-      <h4>{props.house.sink}</h4>
+      <h4>Sink</h4>
     </>
   )
 }

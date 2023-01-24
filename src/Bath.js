@@ -1,7 +1,7 @@
 function Bath(props) {
   return (
     <>
-      
+      {/* {props.house.map(size => )} */}
     </>
   )
 }

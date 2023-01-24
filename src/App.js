@@ -9,7 +9,7 @@ function App() {
     {fullBath: 'Full Bath'},
     {halfBath: 'Half Bath'},
     {bedroomTwo: 'Bedroom Two'},
-    {bedroomThree: 'Bedroom Three'},
+    {bedroomThree: 'Bedroom Three'}
 ]
   return (
     <div className="App">
